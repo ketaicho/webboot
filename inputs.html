@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>Inputs Demo</title>
+    <meta name="description" content="">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+</head>
+
+<body>
+    <p>Do you prefer dogs or cats?</p>
+
+    <form>
+        <label for="dogs">Dogs:</label>
+        <input type="radio" name="petChoice" id="dogs" value="DOGS" required>
+
+        <label for="cats">Cats:</label>
+        <input type="radio" name="petChoice" id="cats" value="CATS" required>
+
+        <p>What's your current mood?</p>
+        <select name="mood">
+            <option value="happy">:)</option>
+            <option value="neutral">:|</option>
+            <option value="sad">:(</option>
+        </select>
+
+        <textarea name="bio" cols="30" rows="10"></textarea>
+
+        <button>Go!</button>
+    </form>
+
+</body>
+
+</html>
