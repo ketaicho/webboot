@@ -1,5 +1,8 @@
 h1 {
     color: red;
+    border-color: purple;
+    border-width: 5px;
+    border-style: solid;
 }
 
 li {
@@ -8,4 +11,11 @@ li {
 
 h4 {
     color: indigo;
+}
+
+body {
+    background-color: lightblue;
+    /* background: url(https://thumbs.dreamstime.com/z/grey-wood-grain-pattern-textured-background-wide-88125172.jpg);
+    background-repeat: no-repeat;
+    background-size: cover; */
 }
