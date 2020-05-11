@@ -1,0 +1,84 @@
+#heading {
+    margin: auto;
+    width: 50%;
+    text-align: center;
+}
+
+.table {
+    border-collapse: collapse;
+    table-layout: fixed;
+    width: 40%;
+    margin: auto;
+}
+
+#td1 {
+    border-top: transparent;
+    border-bottom: 3px solid black;
+    border-left: transparent;
+    border-right: 3px solid black;
+    padding: 100px;
+}
+
+#td2 {
+    border-top: transparent;
+    border-bottom: 3px solid black;
+    border-left: 3px solid black;
+    border-right: 3px solid black;
+    padding: 100px;
+}
+
+#td3 {
+    border-top: transparent;
+    border-bottom: 3px solid black;
+    border-left: 3px solid black;
+    border-right: transparent;
+    padding: 100px;
+}
+
+#td4 {
+    border-top: 3px solid black;
+    border-bottom: 3px solid black;
+    border-left: transparent;
+    border-right: 3px solid black;
+    padding: 100px;
+}
+
+#td5 {
+    border-top: 3px solid black;
+    border-bottom: 3px solid black;
+    border-left: 3px solid black;
+    border-right: 3px solid black;
+    padding: 100px;
+}
+
+#td6 {
+    border-top: 3px solid black;
+    border-bottom: 3px solid black;
+    border-left: 3px solid black;
+    border-right: transparent;
+    padding: 100px;
+}
+
+#td7 {
+    border-top: 3px solid black;
+    border-bottom: transparent;
+    border-left: transparent;
+    border-right: 3px solid black;
+    padding: 100px;
+}
+
+#td8 {
+    border-top: 3px solid black;
+    border-bottom: transparent;
+    border-left: 3px solid black;
+    border-right: 3px solid black;
+    padding: 100px;
+}
+
+#td9 {
+    border-top: 3px solid black;
+    border-bottom: transparent;
+    border-left: 3px solid black;
+    border-right: transparent;
+    padding: 100px;
+}
